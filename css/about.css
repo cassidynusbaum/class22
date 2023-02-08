@@ -1,0 +1,33 @@
+p{
+    color: black;
+}
+
+#s1{
+    display:flex;
+    margin: 0 auto;
+    width: 50%;
+}
+
+div{
+    border: 2px solid black;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+#img{
+    width: 800px;
+    height: 250px;
+}
+
+#about{
+    background-color: rgba(135, 207, 235, 0.637);
+    padding: 15px;
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+h3{
+    color: purple;
+    font-family: 'Sacramento', cursive;
+    font-size: 30px;
+}

@@ -1,0 +1,53 @@
+body{
+    background-image: none;
+    color:white;
+    text-align: center;
+}
+
+h1{
+    background-color: rgb(211, 211, 255);
+    margin: 0;
+    color: black;
+    font-family: "font1";
+}
+
+h2{
+    color:black;
+}
+
+img{
+    height: 300px;
+    width: 450px;
+    opacity:0.7;
+}
+
+#menu{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+}
+
+#menu1{
+    display: flex;
+    background-color: black;
+}
+
+figure{
+    box-shadow:2px 2px 3px rgb(197, 195, 195);
+    margin:0 auto;
+    
+}
+
+img:hover{
+    opacity: 1;
+}
+
+.combo{
+    width: 700px;
+    height:450px;
+    margin: 0 auto;
+}
+
+.figureimg{
+    width: 250px;
+    height: 300px;
+}

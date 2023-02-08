@@ -1,0 +1,20 @@
+body{
+    text-align: center; 
+}
+.icon{
+    width: 20px;
+    height: 20px;
+
+}
+
+h2{
+    color: white;
+}
+
+.city-feature{
+    display: flex;
+    text-align: justify;
+    margin:10px 32%;
+    align-self: center;
+    align-items: center;
+}
